@@ -1,0 +1,19 @@
+{
+    "name": "handsomeguys/cqf",
+    "description": "this is a filter hash key",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "handsomeguy",
+            "email": "2465380388@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+	    "psr-4":{
+	    	"Cqf\\":"src/"
+	    }
+    }
+}
